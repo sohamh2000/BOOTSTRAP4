@@ -1,0 +1,56 @@
+
+body{
+	background: #f5d9d5;
+}
+
+h1{
+	font-family: 'Bangers', cursive;
+}
+.container-fluid{
+			font-family: 'Fredoka One', cursive;
+			background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}
+#up .container-fluid{
+
+	color:black;
+}
+
+#img{
+
+	font-family: 'Bungee Shade', cursive;
+	color:#152744;
+}
+
+.container-fluid{
+	border:solid 2px pink;
+}
+
+.link{
+
+	background-image: url('https://i.pinimg.com/originals/79/26/30/792630d0ffeee67dda34f51c6a2546f3.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.back{
+
+		background-image: url('https://www.publicdomainpictures.net/pictures/240000/velka/light-pink-stripe-background.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+
+
+}
+
+.front{
+
+     background-image: url('https://image.freepik.com/free-vector/rainbow-bright-candy-background_56745-74.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+
+}
+
+#up{
+
+	color:black;
+}
